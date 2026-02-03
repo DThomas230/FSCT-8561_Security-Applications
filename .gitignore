@@ -69,3 +69,7 @@ desktop.ini
 *.tmp
 *.temp
 *.bak
+
+# Document files
+*.doc
+*.docx
