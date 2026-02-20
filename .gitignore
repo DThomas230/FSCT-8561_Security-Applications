@@ -73,3 +73,5 @@ desktop.ini
 # Document files
 *.doc
 *.docx
+midterm/Diagram.drawio
+midterm/syn_detector.py
