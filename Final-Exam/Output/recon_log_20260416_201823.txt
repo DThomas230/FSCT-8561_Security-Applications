@@ -1,0 +1,5 @@
+Scan time : 2026-04-16 20:18:23
+Target    : 127.0.0.1
+Port(s)   : 9999
+--------------------------------------------------
+Host: 127.0.0.1 | Port: 9999/tcp | State: unknown | Service: abyss

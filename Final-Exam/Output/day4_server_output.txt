@@ -1,0 +1,23 @@
+STATUS: EXITED
+EXIT_CODE: 0
+
+HOST_OVERRIDE: 127.0.0.1
+SCRIPT: day4_server.py
+
+STDOUT:
+[*] Server listening on 127.0.0.1:9999
+[*] Waiting for client ...
+[+] Connection from ('127.0.0.1', 1939)
+[+] MFA verified. Waiting for encrypted payload ...
+[+] Received 440 bytes.
+[+] Decrypted manifesto saved to: decrypted_manifesto.txt
+
+--- Decrypted Message Preview ---
+The Message: > "The vault is not locked by a key, but by a consensus. 
+To find the next step, look into the block where the first hash meets the last protocol. 
+Remember: Privacy is not the ability to hide, but the right to choose what you reveal. The Architect" 
+----------------------------------
+
+
+STDERR:
+

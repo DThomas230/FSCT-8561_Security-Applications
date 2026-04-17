@@ -1,0 +1,15 @@
+STATUS: EXITED
+EXIT_CODE: 0
+
+HOST_OVERRIDE: 127.0.0.1
+SCRIPT: day2_mfa_gateway.py
+
+STDOUT:
+=== MFA Gateway Demo ===
+Stored hash : 8b805554cca24a69c7c36d3643f6e995d4249c3ec5419bfb01d840e07baa469c
+Current OTP : 905059
+MFA result  : PASS
+
+
+STDERR:
+

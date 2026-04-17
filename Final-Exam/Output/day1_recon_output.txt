@@ -1,0 +1,17 @@
+STATUS: EXITED
+EXIT_CODE: 0
+
+HOST_OVERRIDE: 127.0.0.1
+SCRIPT: day1_recon.py
+
+STDOUT:
+[*] Scanning 127.0.0.1 on port 9999 ...
+  Host: 127.0.0.1 | Port: 9999/tcp | State: unknown | Service: abyss
+
+[+] Scan log saved to: recon_log_20260416_201823.txt
+[!] Pre-flight check WARNING ù port 9999 may not be open yet.
+    Start day4_server.py before re-running this scan.
+
+
+STDERR:
+

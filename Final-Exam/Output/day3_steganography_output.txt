@@ -1,0 +1,21 @@
+STATUS: EXITED
+EXIT_CODE: 0
+
+HOST_OVERRIDE: 127.0.0.1
+SCRIPT: day3_steganography.py
+
+STDOUT:
+[*] Opening image: evidence.png
+
+--- Extracted Message ---
+The Message: > "The vault is not locked by a key, but by a consensus. 
+To find the next step, look into the block where the first hash meets the last protocol. 
+Remember: Privacy is not the ability to hide, but the right to choose what you reveal. The Architect" 
+-------------------------
+
+[!] Signature check WARNING ù unexpected message start.
+[+] Manifest saved to: architect_manifesto.txt
+
+
+STDERR:
+

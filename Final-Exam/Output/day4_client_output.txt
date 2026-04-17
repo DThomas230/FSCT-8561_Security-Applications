@@ -1,0 +1,16 @@
+STATUS: EXITED
+EXIT_CODE: 0
+
+HOST_OVERRIDE: 127.0.0.1
+SCRIPT: day4_client.py
+
+STDOUT:
+[+] Manifest encrypted (440 bytes).
+[*] OTP generated: 905059
+[+] Connected to 127.0.0.1:9999
+[+] MFA accepted. Sending encrypted payload ...
+[+] Transmission complete.
+
+
+STDERR:
+
